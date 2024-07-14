@@ -1,0 +1,25 @@
+body {
+  border: 25px solid rgb(4, 184, 19);
+  background-image: url("img.png");
+}
+
+h1 {
+  background-color: rgb(189, 148, 228);
+  color: rgb(197, 12, 12);
+  text-align: center;
+  margin-left: 100;
+  border: 20px solid tomato;
+  opacity: 0.9;
+}
+div {
+  background-color: rgb(226, 81, 226);
+}
+p {
+  background-color: rgb(150, 230, 223);
+  font-family: verdana;
+  font-size: 20px;
+  text-align: justify;
+  color: rgb(3, 97, 81);
+  border: 20px solid rgb(32, 9, 161);
+  opacity: 0.9;
+}
